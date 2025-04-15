@@ -1,2 +1,0 @@
-# monad-staking
-Gmonad💜
